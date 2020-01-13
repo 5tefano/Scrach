@@ -19,3 +19,6 @@ How to I compile the code & run (where you have your .net framework might difer)
 in a terminal:
 C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe ConnectGamePieces.cs 
 .\ConnectGamePieces.exe
+
+
+MergeSort and Quick sort are just my implementation of the common cs sorting alogirthms.  I like to pick a random algorithm every once and while and implement it to keep the brain fresh.
